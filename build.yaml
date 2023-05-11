@@ -1,5 +1,5 @@
 include:
+  - board: dao56_left
+  - board: dao56_right
   - board: nice_nano_v2
-    shield: dao56_left
-  - board: nice_nano_v2
-    shield: dao56_right
+    shield: settings_reset
