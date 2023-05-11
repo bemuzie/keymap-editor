@@ -1,5 +1,5 @@
 include:
   - board: nice_nano_v2
-    shield: dao_left
+    shield: dao56_left
   - board: nice_nano_v2
-    shield: dao_right
+    shield: dao56_right
